@@ -1,6 +1,7 @@
 #Napište program, který realizuje jedno kolo hry kámen-nůžky-papír. Hráč volí mezi třemi symboly (kámen, nůžky, papír) pomocí standardního vstupu. 
 #Protihráčem je umělá inteligence, která vybírá symboly náhodně. 
 #Vypište na obrazovku informační hlášku o tom, kdo si vybral jaký symobl a jak kolo hry dopadlo.
+#
 import random
 
 nahoda = random.choice(('kamen','nuzky','papir'))

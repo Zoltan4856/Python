@@ -1,6 +1,7 @@
 #Napište program, který přijme naráz ze standardního vstupu oddělené mezerou koeficienty kvadratické rovnice. 
 # Program následně spočítá a vypíše na obrazovku kořeny této rovnice. 
 # V případě neexistujícího řešení v oblasti reálných čísel vypíše na obrazovku informační hlášku.
+#
 
 hodnota1 = int(input("Zadejte prvni hodnotu kvadraticke rovnice"))
 hodnota2 = int(input("Zadejte hodnotu druhe kvadraticke rovnice"))

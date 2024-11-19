@@ -1,6 +1,7 @@
 #Napište program, ve kterém na standardní vstup napíše uživatel sadu čísel oddělených čárkou. Následně ve druhém vstupu zvolí slovy jakou operaci chce s čísly v kolekci provést 
 #(například: sečti, vynásob). 
 #Program podle výběru spustí příslušný algoritmus, který čísla vzájemně sečte, vynásobí nebo provede další jiné operace, které zavedete.
+#
 
 
 vstup = input("zadejte 3 cisla ")
